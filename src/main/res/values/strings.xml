@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecycleViewDemo01</string>
+
+    <string-array name="titles">
+        <item>路飞</item>
+        <item>索隆</item>
+        <item>娜美</item>
+        <item>罗宾</item>
+        <item>山治</item>
+        <item>乔巴</item>
+        <item>路飞</item>
+        <item>索隆</item>
+        <item>娜美</item>
+        <item>罗宾</item>
+        <item>山治</item>
+        <item>乔巴</item>
+    </string-array>
+</resources>
